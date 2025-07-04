@@ -1,5 +1,6 @@
 # AI-ML-FSA-Capstone
 AI/ML Fullstack Academy Final Capstone Project
+Github: https://github.com/valeriesantiago26/AI-ML-FSA-Capstone.git
 
 This project explores customer product reviews in an e-commerce setting, focusing on sentiment analysis, fake review detection, and summarization using classical ML and modern NLP techniques.
 
